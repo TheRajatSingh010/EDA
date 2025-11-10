@@ -31,8 +31,6 @@ numpy – numerical operations
 
 matplotlib & seaborn – data visualization
 
-plotly – interactive plots (if used)
-
 📂 Dataset
 
 The dataset used in this project is the Zomato Restaurants Data, which contains details like:
